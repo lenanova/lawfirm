@@ -108,6 +108,10 @@ span {
     text-transform: uppercase;
 }
 
+.created {
+    color: red;
+}
+
 a {
     text-decoration: none;
     color: #efd3a2;
